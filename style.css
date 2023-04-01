@@ -1,0 +1,13 @@
+.city {
+	background-color: tomato;
+	color: white;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+  }
+  .hometown { 
+	background: #32a1eb;
+  }
+body {
+	font-family: 'Roboto';font-size: 22px;
+}
